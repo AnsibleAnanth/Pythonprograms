@@ -1,0 +1,5 @@
+Dogs 8
+Cats 9
+Fish 10
+Snake 1
+Hamster 2

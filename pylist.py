@@ -1,0 +1,11 @@
+x = [20, 'Ananth', 'Raja', 30]
+print(len(x))
+print(x[0:2])
+x.append(23)
+print(x)
+x.extend([5, 3, 45, 20])
+print(x.pop())
+print(x)
+x.insert(0, 'Digicoffer')
+print(x)
+print(x.copy(20, 46))
