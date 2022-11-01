@@ -1,2 +1,2 @@
 for i in range(1,100):
-    print("OM Nama Shivaya..")
+    print(i,"OM Nama Shivaya..")
